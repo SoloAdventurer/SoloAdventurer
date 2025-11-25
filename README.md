@@ -53,6 +53,4 @@
 
 ## 📫 Reach Me
 
-**Email:** mohamed@shifaatechnologies.com
-
 **LinkedIn:** [linkedin/moekotb25](https://www.linkedin.com/in/moekotb25)
