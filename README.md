@@ -15,11 +15,11 @@
 ## ⚡ Tech Stack
 
 **Languages:**\
-`TypeScript` • `Python` • `JavaScript` • `SQL` • `C++`
+`TypeScript` • `Python` • `JavaScript` • `SQL` • `C++` `BLAHABLBAHBLAH`
 
 **Tools & Frameworks:**\
 `React` • `Vite` • `Node.js` • `Express` • `Prisma` • `Tailwind`\
-`Scikit-learn` • `Pandas` • `NumPy`
+`Scikit-learn` • `Pandas` • `NumPy` `etc....`
 
 **Currently learning:**\
 `AI/ML` • `Prisma` • `Express`
