@@ -39,7 +39,7 @@
 
 ------------------------------------------------------------------------
 
-## 😂 Random Jokes (auto-updating) (The jokes are shit)
+## 😂 Random Jokes (auto-updating) 
 
 ![Jokes](https://readme-jokes.vercel.app/api)
 
